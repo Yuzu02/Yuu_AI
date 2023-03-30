@@ -3,7 +3,7 @@ import typer  # pip install "typer[all]"
 from rich import print  # pip install rich
 from rich.table import Table
 
-"""+
+"""
 Descripción: Yuu AI 
 Asistente de terminal que usa GPT-3.5 (Chat-GPT) para responder preguntas y dar asistencia en la terminal sobre programación.
 Versión: 0.1
