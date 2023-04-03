@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/57969791/229614155-10a30492-55ad-4d86-828b-8c34456ba06d.png)
 
 
-<p>Yuu AI es un asistente de terminal que utiliza GPT-3.5 (Chat-GPT) para responder preguntas y ofrecer asistencia en la terminal sobre programación. Puedes crear una conversación con Yuu y hacerle cualquier pregunta relacionada con la programación.</p>
+<p>Yuu AI es una asistente de terminal que utiliza GPT-3.5 (Chat-GPT) para responder preguntas y ofrecer asistencia en la terminal sobre programación.</p>
 
 <h2>Funcionalidades</h2>
 
