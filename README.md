@@ -1,5 +1,8 @@
 <h1> Yuu AI </h1>
 
+![image](https://user-images.githubusercontent.com/57969791/229614155-10a30492-55ad-4d86-828b-8c34456ba06d.png)
+
+
 <p>Yuu AI es un asistente de terminal que utiliza GPT-3.5 (Chat-GPT) para responder preguntas y ofrecer asistencia en la terminal sobre programación. Puedes crear una conversación con Yuu y hacerle cualquier pregunta relacionada con la programación.</p>
 
 <h2>Funcionalidades</h2>
@@ -12,22 +15,22 @@
 <li>Salir de la aplicación</li>
 </ul>
 
-<h2>Instalación<h2>
+<h2>Instalación</h2>
 
-<p>Para utilizar Yuu AI, necesitarás instalar las siguientes dependencias: </p>
+<p>Para utilizar Yuu AI, necesitarás instalar las siguientes dependencias:</p>
 
 <ul>
-<li>Openai</li>
-<li>Typer</li>
-<li>Rich</li>
-<li>Datetime</li>
-<li>SQLite3</li>
+  <li>OPENAI</li>
+  <li>TYPER</li>
+  <li>RICH</li>
+  <li>DATETIME</li>
+  <li>SQLITE3</li>
 </ul>
 
 <h2>Instrucciones de uso</h2>
 
 <ul>
-<li>Clona este repositorio en tu máquina local.<li>
+<li>Clona este repositorio en tu máquina local.</li>
 <li>Instala las dependencias mencionadas anteriormente mediante este comando {pip install (nombre de la dependencia)}.</li>
 <li>Abre una terminal en la carpeta main del proyecto y ejecuta el comando python main.py.</li>
 </ul>
